@@ -2,7 +2,9 @@
 ## Obtenção e transformação de dados com Power BI e MySQL na Azure
 - Usado o Microsoft PowerPoint para criação do Tamplate do relatório
 - Criação de uma instância na Azure para MySQL
+- Correção do arquivo SQL
 - Criado Integração do Power BI com MySQL no Azure
+- Tratamento e remoção de inconsistencias
 - Todo o conceito usado nesse trabalho foi ministrado pela Analista de Power BI julianazanelatto
 
 ## Imagens do relatório:
