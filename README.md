@@ -1,6 +1,6 @@
 # ELT-with-Power-BI
 ## Obtenção e transformação de dados com Power BI e MySQL na Azure
-- Usado o Microsoft PowerPoint para criação do Tamplate do Dashboard
+- Usado o Microsoft PowerPoint para criação do Tamplate do relatório
 - Criação de uma instância na Azure para MySQL
 - Criado Integração do Power BI com MySQL no Azure
 - Todo o conceito usado nesse trabalho foi ministrado pela Analista de Power BI julianazanelatto
